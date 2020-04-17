@@ -1,10 +1,10 @@
-baseURL = "https://sheaky.netlify.com"
+baseURL = "https://www.sheaky.co.uk"
 disableLanguages = []
 disqusShortname = ""
 paginate = "6"
 summaryLength = "15"
 theme = "meghna-hugo"
-title = "Meghna"
+title = "Oliver Sheaky"
 [Languages.en]
 contentDir = "content/english"
 home = "Home"
